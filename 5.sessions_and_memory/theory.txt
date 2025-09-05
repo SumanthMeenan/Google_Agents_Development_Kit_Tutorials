@@ -1,0 +1,3 @@
+a) How we can update and make our agents have session and member 
+   so they can remember things b/w diff conversations.
+

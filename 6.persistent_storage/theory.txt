@@ -1,0 +1,2 @@
+a) How agents can save data specifically save session and memory so that when we close and open application these agents still have access to what we conversed.
+b) database functionality

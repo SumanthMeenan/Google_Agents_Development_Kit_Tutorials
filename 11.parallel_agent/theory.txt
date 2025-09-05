@@ -1,0 +1,1 @@
+a) Agents working in parallel and combining their final answer at the end. 

@@ -1,0 +1,1 @@
+a) Agents work in sequence, left to right.

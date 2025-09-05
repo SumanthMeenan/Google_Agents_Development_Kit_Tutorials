@@ -1,0 +1,1 @@
+a) Getting structured json outputs so we can pass it to API or Tools.

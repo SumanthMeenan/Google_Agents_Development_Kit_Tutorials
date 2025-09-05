@@ -1,0 +1,2 @@
+a) Agents have certain lifecycle of things that they do, before they run, after they run, while they're running.
+b) Callbacks allow you to control every part of the agent lifecycle.
